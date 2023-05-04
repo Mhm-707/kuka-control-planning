@@ -75,7 +75,7 @@ To run the code, you need to run the main file *kuka_term_project_final.py* .
 
 Mohammed Abugurain - Mohammed.Abugurain@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/Mhm-707/kuka-control-planning)
+Project Link: [https://github.com/Mhm-707/kuka-control-planning/](https://github.com/Mhm-707/kuka-control-planning)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
