@@ -25,6 +25,8 @@
 
 <h3 align="center">Control and Planning Algorithms for KUKA Manpiulator in Pick-and-Place Task</h3>
 
+![Alt Text](path_length_lqr_front.gif)
+
   <p align="center">
     At this project, we are required to use the KUKA IIWA manipulator to perform a pick-and-place task. The task is to pick up a cubes object from a working conveyer and place the cube in the right place based on its color. 
     <br />
